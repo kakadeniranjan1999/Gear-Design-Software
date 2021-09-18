@@ -1,7 +1,8 @@
 # Gear-Design-Software
 
-<img height="160" src="gear_animation.gif" width="113" alt="Main Page" title="Main Page"/>
-
+<p align="center">
+<img height="250" src="gear_animation.gif" width="370" alt="Main Page" title="Main Page"/>
+</p>
 
 When designing a mechanical element for a certain application, it's crucial to choose the right values for the design parameters. This technique sometimes can be complicated and time-consuming to follow.
 This repository offers Python implementation code for designing mechanical gears for various applications using a GUI-based desktop application.
