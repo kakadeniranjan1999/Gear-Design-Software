@@ -1,6 +1,6 @@
 # Gear-Design-Software
 
-<img height="829" src="gear_animation.gif" width="1283" alt="Main Page" title="Main Page"/>
+<img height="160" src="gear_animation.gif" width="113" alt="Main Page" title="Main Page"/>
 
 
 When designing a mechanical element for a certain application, it's crucial to choose the right values for the design parameters. This technique sometimes can be complicated and time-consuming to follow.
